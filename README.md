@@ -41,7 +41,7 @@ Acredito que a combinação de uma base conceitual sólida com ferramentas moder
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadilasoaresI&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadilasoares&show_icons=true&theme=radical&include_all_commits=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilasoares&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
